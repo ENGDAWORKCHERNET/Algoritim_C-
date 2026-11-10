@@ -1,0 +1,10 @@
+# Compiled binaries
+Algorithm1
+bigO
+first
+second
+timing
+
+# Object files / executables
+*.o
+*.out
